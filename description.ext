@@ -1,0 +1,5 @@
+// description.ext
+
+class CfgFunctions {
+	#include "functions_Ambient\functions_Ambient.hpp"
+};
